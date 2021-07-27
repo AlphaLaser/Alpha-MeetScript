@@ -1,7 +1,7 @@
 ![Logo](https://github.com/AlphaLaser/Alpha-MeetScript/blob/26f4d54d6ba5e19f67ab09ac54b081223f45d25f/Images/Alpha%20ed%20assist.png)
 
 
-# Alpha Meet Script
+
 
 <br/>
 
