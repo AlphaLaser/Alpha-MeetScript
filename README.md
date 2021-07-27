@@ -57,7 +57,7 @@ BOOM ! No need to go through a 1 hr recording. You have all the stuff you need w
 - Make sure to add Python to your path during the setup !
 <br/>
 
-![Add Python to Path](https://github.com/AlphaLaser/Alpha-MeetScript/blob/0013d04cae5a9686cceaa42bdaf74c28febf1ce8/python_install.PNG)
+![Add Python to Path](https://github.com/AlphaLaser/Alpha-MeetScript/blob/054d238530a0e696f0228e9fd06be36a012f553d/python_install.PNG)
 
 <br/>
 Run these three commands in your terminal
@@ -125,4 +125,3 @@ python app.py
 
  - [Symbl.ai Documenmtation](https://docs.symbl.ai/docs/?_ga=2.94379868.1912898433.1627359827-1705200869.1626662338)
  - [Spacy documentation](https://spacy.io/usage/spacy-101/)
-- [Awesome Python Installation Video by Wasim Iqbal on YT : I took the screenshot of the Python Installation fromhere : )](https://www.youtube.com/watch?v=aJ_Vfqmf1ow&t=99s)  
