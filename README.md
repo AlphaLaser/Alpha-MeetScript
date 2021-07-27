@@ -1,3 +1,5 @@
+![Logo](https://github.com/AlphaLaser/Alpha-MeetScript/blob/26f4d54d6ba5e19f67ab09ac54b081223f45d25f/Images/Alpha%20ed%20assist.png)
+
 
 # Alpha Meet Script
 
@@ -32,8 +34,16 @@ BOOM ! No need to go through a 1 hr recording. You have all the stuff you need w
 ## Preview
 
 1. Filling the form 
+<br/>
 
+![Logo](https://github.com/AlphaLaser/Alpha-MeetScript/blob/26f4d54d6ba5e19f67ab09ac54b081223f45d25f/Images/preview_form.PNG)
+<br/>
+<hr/>
+<br/>
 2. The output Analytics
+<br/><br/>
+
+![Logo](https://github.com/AlphaLaser/Alpha-MeetScript/blob/26f4d54d6ba5e19f67ab09ac54b081223f45d25f/Images/preview_output.PNG)
 
 <br/>
 
@@ -70,6 +80,11 @@ pip install flask
 ### 2. Sign Up on the symbl.ai platform
 
 - Signing up on symbl.ai platform will provide you with a unique app id and app_secret that you can use for your symbl transcriptions
+<br/><br/>
+![Logo](https://github.com/AlphaLaser/Alpha-MeetScript/blob/26f4d54d6ba5e19f67ab09ac54b081223f45d25f/Images/preview_symbl.png)
+
+<br/><br/>
+
 
 ### 3. Changing credintials in the file
 
