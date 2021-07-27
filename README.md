@@ -49,9 +49,19 @@ BOOM ! No need to go through a 1 hr recording. You have all the stuff you need w
 
 ## Installation
 
+### 1. Install Python
+
+- Go to the [Python Official Website](https://www.python.org/)
+- Install the correct package of <b> Python 3</b> according to the os of your system (Also, keep in mind whether you are downloading the 32 bit version or the 64 bit one !)
+- Run the setup
+- Make sure to add Python to your path during the setup !
+<br/>
+![Add Python to Path](https://github.com/AlphaLaser/Alpha-MeetScript/blob/0013d04cae5a9686cceaa42bdaf74c28febf1ce8/python_install.PNG)
+
+<br/>
 Run these three commands in your terminal
 
-### 1. Install the required libraries 
+### 2. Install the required libraries 
 
 - Install symbl.ai API
 
@@ -77,7 +87,7 @@ python -m spacy download en_core_web_sm
 pip install flask
 ```
 
-### 2. Sign Up on the symbl.ai platform
+### 3. Sign Up on the symbl.ai platform
 
 - Signing up on symbl.ai platform will provide you with a unique app id and app_secret that you can use for your symbl transcriptions
 <br/><br/>
@@ -86,7 +96,7 @@ pip install flask
 <br/><br/>
 
 
-### 3. Changing credintials in the file
+### 4. Changing credintials in the file
 
 - Open the symbl.config file
 
