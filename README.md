@@ -125,5 +125,4 @@ python app.py
 
  - [Symbl.ai Documenmtation](https://docs.symbl.ai/docs/?_ga=2.94379868.1912898433.1627359827-1705200869.1626662338)
  - [Spacy documentation](https://spacy.io/usage/spacy-101/)
-
-  
+- [Awesome Python Installation Video by Wasim Iqbal on YT : I took the screenshot of the Python Installation fromhere : )](https://www.youtube.com/watch?v=aJ_Vfqmf1ow&t=99s)  
