@@ -56,6 +56,7 @@ BOOM ! No need to go through a 1 hr recording. You have all the stuff you need w
 - Run the setup
 - Make sure to add Python to your path during the setup !
 <br/>
+
 ![Add Python to Path](https://github.com/AlphaLaser/Alpha-MeetScript/blob/0013d04cae5a9686cceaa42bdaf74c28febf1ce8/python_install.PNG)
 
 <br/>
