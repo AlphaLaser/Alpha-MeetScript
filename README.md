@@ -109,6 +109,7 @@ pip install flask
 
 - Install the repo as .zip
 - Extract the files in a folder
+- Open up a terminal
 - Navigate to the folder in your terminal
 - Run
 
