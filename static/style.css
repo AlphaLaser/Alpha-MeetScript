@@ -1,0 +1,23 @@
+body{
+    background-color : coral;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    color: white ;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color : white;
+    font-size: 60px;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}

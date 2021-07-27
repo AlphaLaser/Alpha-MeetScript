@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Trial</title>
+
+
+    <style>
+        body{
+    background: coral;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    color: white ;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color : white;
+    font-size: 60px;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+    </style>
+
+
+</head>
+<body >
+<b><h1>Analysis</h1></b>
+<br>
+<b><h2>
+    Transcript
+</h2></b>
+<p>{{ output }}</p>
+<br><hr><br>
+<b><h2> Short Summary</h2></b>
+<p>{{ sum_output }}</p>
+<br><hr><br>
+<b><h2> All Sentences containing the word you asked for : </h2></b>
+<p>{{ name_find }}</p>
+</body>
+</html>
