@@ -96,13 +96,16 @@ pip install flask
 
 ## Hosting on a local server 
 
-- Open the folder in your favourite IDE / Code Editor
+- Install the repo as .zip
+- Extract the files in a folder
+- Navigate to the folder in your terminal
+- Run
 
-- Open app.py
+```bash
+python app.py
+```
 
-- Run the file
-
-- The terminal will show you a local web address you need to go to. Click on it and it will take you to the locally deployed website
+- Go to http://127.0.0.1:5000/ in your browser
 
 <br/>
 
