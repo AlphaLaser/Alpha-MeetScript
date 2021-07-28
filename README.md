@@ -27,7 +27,7 @@ You missed your zoom meeting and are too lazy to go through the whole recording 
 
 2. You can enter your name as the input in the form and it will return a numbered list of all the sentences where your name was called during the meeting
 
-BOOM ! No need to go through a 1 hr recording. You have all the stuff you need which you can go through in under 2 minutes
+BOOM ! No need to go through a 1 hr recording.
 
 <br/>
 
