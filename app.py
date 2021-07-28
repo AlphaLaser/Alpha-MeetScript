@@ -1,3 +1,4 @@
+# Importing all Modules
 from flask import Flask, render_template, Markup, request, redirect
 import text_extract
 import summary
@@ -5,8 +6,10 @@ import name_recog
 import os
 import transcript
 
+# Defining App
 app = Flask(__name__)
 
+#Calling functions from other Python files to use in Flasjk Deployment
 text = text_extract.text_extract_func()
 summarize = summary.summary_func()
 name_finder = name_recog.name_recog_func()
@@ -16,16 +19,12 @@ for i in name_finder :
     my_str += Markup(str(count) +". " + str(i) + "<br>")
     count += 1
 
-'''
-@app.route('/', methods = ['GET', 'POST'])
-def home ():
-    form =
-'''
-
+# The login Page
 @app.route('/')
 def home_page(): # Form
     return render_template('details.html')
 
+# The output webpage
 @app.route('/output', methods = ['POST', 'GET'])
 def login():
    if request.method == 'POST':
@@ -55,10 +54,6 @@ def login():
       return render_template('index.html', output = text, sum_output = summarize, name_find = my_str)
 
 
-'''@app.route('/output')
-def output_page () :
-    return render_template('index.html', output = text, sum_output = summarize, name_find = my_str)
-'''
 
 if __name__ == '__main__':
     app.run(debug=True)
