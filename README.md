@@ -116,7 +116,7 @@ pip install flask
 ```bash
 python app.py
 ```
-
+- Wait for the run to complete
 - Go to http://127.0.0.1:5000/ in your browser
 
 <br/>
